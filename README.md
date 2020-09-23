@@ -57,7 +57,7 @@
 		Результат.ЕстьОшибки = Истина;
 	КонецПопытки;
 	
-КонецПроцедурым
+КонецПроцедуры
 ```
 
 **[СКАЧАТЬ](https://github.com/pallid/TemplateDataProcessorsMigrations/releases/latest)**
